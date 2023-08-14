@@ -275,7 +275,7 @@ h2 {
 
 
 .video-container {
-    display: inline-flex;
+    display: flex;
     justify-content: space-around;
     flex-direction: row;
     flex-wrap: wrap;
